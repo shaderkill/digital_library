@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">digital_library</string>
+    <string name="bienvenido_nombre_usuario">Bienvenido nombre_usuario!</string>
 </resources>
